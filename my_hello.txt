@@ -1,2 +1,3 @@
 printf("Hello from Dm Belov")
 print("Hello all")
+print("Hello")
